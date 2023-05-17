@@ -1,0 +1,9 @@
+cd
+mkdir
+touch 
+git add
+commit -m
+git -a
+git init
+git status
+vi bike.txt
