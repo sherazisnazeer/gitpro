@@ -7,3 +7,10 @@ git -a
 git init
 git status
 vi bike.txt
+hello
+hey
+bye
+bye
+bye
+bye
+bye
